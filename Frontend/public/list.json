@@ -1,0 +1,90 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"To Kill a Mockingbird",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1715783946~exp=1715787546~hmac=2446d26404dd4b968ae93f1a772c02131e7dfd67c1f138a815d398c1ba489939&w=740"
+    },
+    {
+        "id":2,
+        "name":"Story Book",
+        "title":"To Kill a Mockingbird",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1715783946~exp=1715787546~hmac=2446d26404dd4b968ae93f1a772c02131e7dfd67c1f138a815d398c1ba489939&w=740"
+    },
+    {
+        "id":3,
+        "name":"Story Book",
+        "title":"To Kill a Mockingbird",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1715783946~exp=1715787546~hmac=2446d26404dd4b968ae93f1a772c02131e7dfd67c1f138a815d398c1ba489939&w=740"
+    },
+    {
+        "id":4,
+        "name":"Music Book",
+        "title":"To Kill a Mockingbird",
+        "price":300,
+        "category":"Music",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1715783946~exp=1715787546~hmac=2446d26404dd4b968ae93f1a772c02131e7dfd67c1f138a815d398c1ba489939&w=740"
+    },
+    {
+        "id":5,
+        "name":"Story Book",
+        "title":"To Kill a Mockingbird",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1715783946~exp=1715787546~hmac=2446d26404dd4b968ae93f1a772c02131e7dfd67c1f138a815d398c1ba489939&w=740"
+    },
+    {
+        "id":6,
+        "name":"Cooking Book",
+        "title":"To Kill a Mockingbird",
+        "price":500,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1715783946~exp=1715787546~hmac=2446d26404dd4b968ae93f1a772c02131e7dfd67c1f138a815d398c1ba489939&w=740"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"To Kill a Mockingbird",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1715783946~exp=1715787546~hmac=2446d26404dd4b968ae93f1a772c02131e7dfd67c1f138a815d398c1ba489939&w=740"
+    },
+    {
+        "id":8,
+        "name":"Horror Book",
+        "title":"To Kill a Mockingbird",
+        "price":200,
+        "category":"Horror",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1715783946~exp=1715787546~hmac=2446d26404dd4b968ae93f1a772c02131e7dfd67c1f138a815d398c1ba489939&w=740"
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"To Kill a Mockingbird",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1715783946~exp=1715787546~hmac=2446d26404dd4b968ae93f1a772c02131e7dfd67c1f138a815d398c1ba489939&w=740"
+    },
+    {
+        "id":10,
+        "name":"Comic Book",
+        "title":"To Kill a Mockingbird",
+        "price":100,
+        "category":"Ent",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1715783946~exp=1715787546~hmac=2446d26404dd4b968ae93f1a772c02131e7dfd67c1f138a815d398c1ba489939&w=740"
+    },
+    {
+        "id":11,
+        "name":"Story Book",
+        "title":"To Kill a Mockingbird",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?t=st=1715783946~exp=1715787546~hmac=2446d26404dd4b968ae93f1a772c02131e7dfd67c1f138a815d398c1ba489939&w=740"
+    }
+]
