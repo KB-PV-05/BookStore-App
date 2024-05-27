@@ -1,5 +1,5 @@
 import React from "react";
-import banner from "../../public/Banner.jpg";
+import banner from "../../public/Banner.png";
 function Banner() {
   return (
     <>
@@ -11,9 +11,10 @@ function Banner() {
               <span className="text-pink-500">new everyday!!!</span>
             </h1>
             <p className="text-sm md:text-xl">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor,
-              et totam. Tempora amet atque expedita, quae corrupti totam sed
-              pariatur corporis at veniam est voluptas animi!
+              "Reading is escape, and the opposite of escape; it's a way to make
+              contact with reality after a day of making things up, and it's a
+              way of making contact with someone else's imagination after a day
+              that's all too real." – Nora Ephron
             </p>
             <label className="input input-bordered flex items-center gap-2">
               <svg
